@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.11.1",
+    "body-parser": "~1.0.0",
+    "pg": "3.4.0",
+    "bookshelf": "0.7.9",
+    "bluebird": "2.2.2",
+    "knex": "0.7.3",
+    "express-route-controller2": "0.0.0",
+    "morgan": "1.3.0",
+    "crypto": "0.0.3",
+    "rand-token": "0.2.1",
+    "bookshelf-model": "0.0.0",
+    "express-mailer": "0.2.3",
+    "jade": "1.6.0",
+  }
+}
